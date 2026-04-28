@@ -1,0 +1,7 @@
+{"version": 2, "width": 204, "height": 53, "timestamp": 1777275709, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.207537, "o", "\u001b[?2004h\u001b]0;mikhail@mikhail-Aspire-A715-71G: ~/Рабочий стол/backend-project-46/backend-project-46\u0007\u001b[01;32mmikhail@mikhail-Aspire-A715-71G\u001b[00m:\u001b[01;34m~/Рабочий стол/backend-project-46/backend-project-46\u001b[00m$ "]
+[2.363153, "o", "\u001b[7mnode ./gendiff.js /src/json_files/file1.json /src/json_files/file2.json\u001b[27m"]
+[4.173144, "o", "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bnode ./gendiff.js /src/json_files/file1.json /src/json_files/file2.json\r\n\u001b[?2004l\r"]
+[4.276482, "o", "{\r\n- follow: false\r\n  host: hexlet.io\r\n- proxy: 123.234.53.22\r\n- timeout: 50\r\n+ timeout: 20\r\n+ verbose: true\r\n}\r\n"]
+[4.283534, "o", "\u001b[?2004h\u001b]0;mikhail@mikhail-Aspire-A715-71G: ~/Рабочий стол/backend-project-46/backend-project-46\u0007\u001b[01;32mmikhail@mikhail-Aspire-A715-71G\u001b[00m:\u001b[01;34m~/Рабочий стол/backend-project-46/backend-project-46\u001b[00m$ "]
+[7.933021, "o", "\u001b[?2004l\r\r\nexit\r\n"]
