@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 import { gendiff } from './src/findDiff.js'
 import { Command } from 'commander'
-// import * as fs from 'node:fs'
-// import _ from "lodash"
 
 const program = new Command()
 
@@ -17,5 +15,3 @@ program
   })
 
 program.parse()
-
-// export default genDiff
